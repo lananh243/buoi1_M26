@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn ki",
+      "birthdate": "2024-10-01",
+      "email": "mai@gmail.com",
+      "address": "Nam Định"
+    },
+    {
+      "id": 4,
+      "name": "Phạm Thị D",
+      "birthdate": "20/05/1995",
+      "email": "ptd@gmail.com",
+      "address": "Hoàn Kiếm, Hà Nội"
+    },
+    {
+      "id": 6,
+      "name": "Vũ Thị Fa",
+      "birthdate": "08/03/1992",
+      "email": "vtf@gmail.com",
+      "address": "Đống Đa, Hà Nội"
+    },
+    {
+      "id": 7,
+      "name": "Hoàng Văn G",
+      "birthdate": "05/09/1987",
+      "email": "hvg@gmail.com",
+      "address": "Thanh Xuân, Hà Nội"
+    },
+    {
+      "id": 8,
+      "name": "Đỗ Thị H",
+      "birthdate": "22/06/1993",
+      "email": "dth@gmail.com",
+      "address": "Long Biên, Hà Nội"
+    },
+    {
+      "name": "Lan Anh",
+      "birthdate": "2024-09-17",
+      "email": "nguyenthilananh21092005@gmail.com",
+      "address": "Hà Nội",
+      "id": 9
+    }
+  ]
+}
